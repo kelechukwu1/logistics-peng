@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TRK001",
+    "recipientName": "John Smith",
+    "recipientPhone": "+1234567890",
+    "recipientAddress": "123 Main St, New York, NY 10001",
+    "status": "pending",
+    "weight": "2.5 kg",
+    "type": "Electronics",
+    "description": "Smartphone delivery"
+  },
+  {
+    "id": "TRK002",
+    "recipientName": "Sarah Johnson",
+    "recipientPhone": "+1234567891",
+    "recipientAddress": "456 Oak Ave, Los Angeles, CA 90210",
+    "status": "in_transit",
+    "weight": "1.2 kg",
+    "type": "Documents",
+    "description": "Legal documents"
+  },
+  {
+    "id": "TRK003",
+    "recipientName": "Michael Brown",
+    "recipientPhone": "+1234567892",
+    "recipientAddress": "789 Pine Rd, Chicago, IL 60601",
+    "status": "delivered",
+    "weight": "5.0 kg",
+    "type": "Medical Supplies",
+    "description": "Medical equipment"
+  },
+  {
+    "id": "TRK004",
+    "recipientName": "Emily Davis",
+    "recipientPhone": "+1234567893",
+    "recipientAddress": "321 Elm St, Houston, TX 77001",
+    "status": "pending",
+    "weight": "0.8 kg",
+    "type": "Books",
+    "description": "Educational materials"
+  },
+  {
+    "id": "TRK005",
+    "recipientName": "David Wilson",
+    "recipientPhone": "+1234567894",
+    "recipientAddress": "654 Maple Dr, Phoenix, AZ 85001",
+    "status": "in_transit",
+    "weight": "3.2 kg",
+    "type": "Clothing",
+    "description": "Fashion items"
+  },
+  {
+    "id": "TRK006",
+    "recipientName": "Lisa Anderson",
+    "recipientPhone": "+1234567895",
+    "recipientAddress": "987 Cedar Ln, Philadelphia, PA 19101",
+    "status": "failed",
+    "weight": "1.5 kg",
+    "type": "Food",
+    "description": "Perishable goods"
+  }
+]
